@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Andrew Mann and I'm currently working on getting my PhD at Georgia Tech in Atlanta, Georgia. I'm studying machine learning techniques for numerically solving problems in materials science. The goal of my research is to efficiently identify the process-structure-property linkages in multi-scale material modeling. Through this work, my lab hopes to reduce the time required to discover and manufacture new materials.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Outside of work I love to run, cook, read, and learn continuously. I'm sure I will talk about these interests at some point throughout the life of this blog! 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
