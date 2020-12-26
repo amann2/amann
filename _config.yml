@@ -21,8 +21,7 @@
 title: Andrew Mann's Blog
 email: amann37@gatech.edu
 description: >- # this means to ignore newlines until "baseurl:"
- This blog is meant to be a repository of random thoughts and posts on topics that I am interested in enough to write about.
- The only guideline for the topic of a post is if I find it interesting. Posts could be all over the place, so we'll see where this leads.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AndyMacMann25
