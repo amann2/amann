@@ -21,10 +21,9 @@
 title: Andrew Mann's Blog
 email: amann37@gatech.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi all! This is a place where I hope to share my thoughts. It's not restricted to any particular category - the only requirement is that each
-  post covers something that interests me. Hopefully you find some of the topics I write about helpful too!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://amann2.github.io
+  A place to share my thoughts, pictures, and writings on any topic that interests me.
+baseurl: 
+url: https://amann2.github.io
 twitter_username: AndyMacMann25
 github_username:  amann2
 
@@ -35,6 +34,13 @@ google_analytics: G-6TTR24LLV2
 theme: minima
 plugins:
   - jekyll-feed
+
+defaults:
+  - scope:
+      path: "assets/"
+    values:
+      image: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
