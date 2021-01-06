@@ -21,6 +21,7 @@
 title: Andrew Mann's Blog
 email: amann37@gatech.edu
 description: >- # this means to ignore newlines until "baseurl:"
+  Never been all that great at descriptions or bios. Just read the posts or look at the pictures!
 baseurl: 
 url: https://amann2.github.io
 twitter_username: AndyMacMann25
@@ -31,8 +32,8 @@ google_analytics: G-6TTR24LLV2
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 
 defaults:
   - scope:
