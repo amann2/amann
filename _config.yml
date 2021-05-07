@@ -21,11 +21,10 @@
 title: Andrew Mann's Blog
 email: amann37@gatech.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Never been all that great at descriptions or bios. Just read the posts or look at the pictures!
 baseurl: 
-url: https://amann2.github.io
+url: https://andy-mann.github.io
 twitter_username: AndyMacMann25
-github_username:  amann2
+github_username:  andy-mann
 
 # Google Analytics
 google_analytics: G-6TTR24LLV2

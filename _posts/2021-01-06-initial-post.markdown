@@ -5,6 +5,8 @@ date:   2021-01-06 6:30:00 -0500
 categories: introduction
 ---
 
+# Welcome! 
+
 To kick off this project, I think it would be appropriate to start off answering the question of “Why start a blog?” Especially now - when life is so hectic and I seem to be as busy as ever. I’ve been thinking about starting a blog/personal website for a few years now. But there are a few things that have prompted me to pull the trigger now:
 
 * I've done a lot of moving over the last year which means I have met a lot of incredible people, but I’ve also moved away from some dear friends. I thought a blog would be a good way to keep everyone up to date.
