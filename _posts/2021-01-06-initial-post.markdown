@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to my personal website!"
 date:   2021-01-06 6:30:00 -0500
-categories: introduction
+categories: life
 ---
 
 # Welcome! 
