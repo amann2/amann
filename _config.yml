@@ -31,8 +31,8 @@ google_analytics: G-6TTR24LLV2
 
 # Build settings
 theme: minima
-#plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-analytics
 
 defaults:
   - scope:
@@ -40,6 +40,10 @@ defaults:
     values:
       image: true
 
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-186074626-3        # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
 
 
