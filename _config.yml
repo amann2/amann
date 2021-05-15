@@ -31,8 +31,10 @@ google_analytics: G-6TTR24LLV2
 
 # Build settings
 theme: minima
+
 plugins:
   - jekyll-analytics
+  - jekyll-sitemap
 
 defaults:
   - scope:

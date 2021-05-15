@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to my personal website!"
+title:  "Welcome!"
 date:   2021-01-06 6:30:00 -0500
 categories: life
 ---

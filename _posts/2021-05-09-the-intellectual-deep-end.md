@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Intellectual Deep End"
+title:  "The Academic Deep End"
 date:   2021-05-09 6:30:00 -0500
 category: life
 ---
