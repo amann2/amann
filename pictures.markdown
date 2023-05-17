@@ -7,7 +7,7 @@ permalink: /pictures/
 ![Lake 22, Washington](/assets/lake_22.jpg)
 *Lake 22 in Washington. This was my desktop background for awhile.*
 
-![Moody Swimming Pool](/assets/swimming_pool.jpg)
+![Swimming Pool](/assets/swimming_pool.jpg)
 *Just turning a normal picture of a swimming pool into something a bit more artsy with this edit.*
 
 ![Yosemite Valley](/assets/yosemite_valley.jpg)
